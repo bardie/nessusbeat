@@ -13,7 +13,11 @@ results to supported Beat outputs.
 
 * [Golang](https://golang.org/dl/) 1.7
 
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-14-04
 
+```bash
+go get github.com/bardie/nessusbeat
+```
 ### Configuration
 
 ```yaml
